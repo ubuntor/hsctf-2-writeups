@@ -125,7 +125,7 @@ def lcm(p,q):
         if not q: return m // p
 
 for s in open("xenolinguist.txt").read().split('\n'):
-    if 'halgemijig' not in s or s == '':
+    if s == '':
         continue
     print(s)
     stack = []
