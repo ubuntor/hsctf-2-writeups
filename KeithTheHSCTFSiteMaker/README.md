@@ -4,6 +4,7 @@
 Looking at the about page, the logo has the URL
 `/problem-static/forensics/keith_the_hsctf_site_maker/logo.jpg`, which is
 suspicious. It turns out that pieces of a QR code are hidden in that logo:
+
 ![Assembled QR Code](qrcolored.png)
 ### Black
 Running `binwalk` on the image, we see that a second image is hidden within the
