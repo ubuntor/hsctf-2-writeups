@@ -13,9 +13,9 @@
 
 ### Number system and fwooosh
 On first look, the lines look like some sort of stack-based language.
-From some analysis, it looks like `clogenheim` looks like an answer keyword,
+From some analysis, it looks like `orkshnoddle` looks like an answer keyword,
 since it's the next-to-last word of every line, and there are a lot of lines of
-the form `[word] clogenheim [word]`.
+the form `[word] orkshnoddle [word]`.
 
 We can determine that `fwooosh` and `clogenheim` are *binary* operations, and
 `flordoralscorp` and `halgemijig` are *unary* operations.
